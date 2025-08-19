@@ -13,5 +13,6 @@ test.describe('Add/Remove Elements Functionality', () => {
     await addRemovePage.clickDeleteElement();
     await addRemovePage.howManyButtons(0);
     await addRemovePage.checkIfButtonNotVisible();
+    //test
   });
 });
