@@ -1,4 +1,3 @@
-// pages/addRemoveElementsPage.ts
 import { Page, expect } from '@playwright/test';
 
 export class AddRemoveElementsPage {
