@@ -32,3 +32,6 @@ Before you begin, ensure you have the following installed:
 **Running Specific Tests**
 
 You can run a specific test file: `npx playwright test tests/formAuthentication.spec.ts`
+
+
+For some reason, I couldn't make GitHub actions work, I could not find the issue.
